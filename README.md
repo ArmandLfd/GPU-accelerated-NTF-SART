@@ -12,4 +12,4 @@ Use CMAKE to configure the project that you can lauch further with Visual Studio
 Generate the executable files, then launch it via a terminal. One argument can be passed: the path to the parameter file.
 
 ## Parameter file
-The parameter file should be in the same fom that the one provided: param1.txt
+The parameter file should be in the same fom that the one provided: data/param1.txt
