@@ -1,5 +1,5 @@
 # GPU-accelerated-NTF-SART
-This repository preents a GPU-acceleration of Lee-Seung and SART algorithms applied for additive tensor display. This work comes from, initially, Nagoya University but some modifications have been done. 
+This repository presents a GPU-acceleration of Lee-Seung and SART algorithms applied for additive tensor display. This work comes from, initially, Nagoya University but some modifications have been done. 
 
 Authors:
   * Armand Losfeld
